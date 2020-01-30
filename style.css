@@ -1,0 +1,46 @@
+.contenedor {
+    background-color: #1E90FF;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 10px;
+}
+.tarjeta1 {
+    text-align: center;
+    background-color:#00BFFF;
+    color: white;
+    margin: auto;
+    width: 300px;
+    height: 500px;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+}    
+.tarjeta2 {
+    text-align: center;
+    background-color: #00BFFF;
+    color: white;
+    margin: auto;
+    width: 300px;
+    height: 500px;
+    font: bold 20px  'Times New Roman';
+}
+.tarjeta3 {
+    text-align: center;
+    background-color: #00BFFF;
+    color: white;
+    margin: auto;
+    width: 300px;
+    height: 500px;
+    font: bold 20px  'Times New Roman';
+}
+hr {
+    width: 70%;
+    align-content: center;
+    size: 5px;
+    color: white;
+}
+img {
+    width: 200px;
+    height: 300px;
+}
